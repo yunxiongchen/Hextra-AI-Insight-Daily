@@ -12,17 +12,3 @@ sidebar:
 我承诺会尽快回复您的邮件。
 
 ---
-
-## **联系方式**
-
-*   **电子邮件 (Email):**
-    *   [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
-
-*   **个人微信 (Wechat):**
-    *   {{< cards >}}
-        {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="个人微信" subtitle="欢迎加我交流" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
-        {{< /cards >}}
-
-*   **工作时间 (Office Hours):**
-    *   周一至周五, 上午 9:00 - 下午 6:00 (GMT+8)
-    *   (周末及法定节假日休息)

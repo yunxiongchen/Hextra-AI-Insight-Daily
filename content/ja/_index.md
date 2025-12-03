@@ -77,18 +77,3 @@ Runway发布Gen-4.5提升视频真实感，千问Qwen-Image升级图片编辑。
 6.  当AI试图理解人类的奇怪笑话时……场面一度很尴尬。😂 这个由AI生成的图片完美诠释了"我看不懂，但我大受震撼”。（*/∇＼*）<br/>![AI资讯：一张搞笑的AI生成图片](https://source.hubtoday.app/images/2025/12/news_01kbfttzm9eect70dtyqnwrb8p.avif)
 
 7.  有网友发现，刘震云的小说充满了"不是…而是…”句式。😂 这文风简直和标准AI味儿一模一样，让人忍俊不禁。看来艺术与科技的距离，比[我们想的（AI资讯）](https://x.com/vista8/status/1995694714520240579)要近得多。✍️
-
-
-
-
----
-
-## **AI资讯日报语音版**
-
-| 🎙️ **小宇宙** | 📹 **抖音** |
-| --- | --- |
-| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![小酒馆](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
-
-
-
